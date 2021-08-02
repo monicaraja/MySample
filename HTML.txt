@@ -1,0 +1,14 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+	<Title>     
+	Add the Background image using background attribute   
+	</Title>  
+</Head>  
+<body background="Sample.jpg">   
+	<h1>
+ 	This page helps us to understand how to show the backround image of a web page. 
+	</h1>
+</body>  
+</Html>  
+
